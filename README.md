@@ -1,12 +1,11 @@
 # 🚀 Merhaba, Ben Hasan Hüseyin Yıldız!
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Mechatronics%20Engineering%20Student-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/School-42%20Network-black?style=for-the-badge&logo=42" />
   <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Embedded-green?style=for-the-badge" />
 </p>
 
-Donanım ve yazılımın kesişim noktasında projeler üreten bir **Mekatronik Mühendisliği öğrencisiyim**. **42 School** bünyesinde düşük seviyeli sistem programlama üzerine uzmanlaşırken, aynı zamanda gömülü sistemler, mobil uygulama geliştirme ve oyun dünyasına yönelik projeler geliştiriyorum.
+Donanım ve yazılımın kesişim noktasında projeler üreten bir öğrenciyim **42 School** bünyesinde düşük seviyeli sistem programlama üzerine uzmanlaşırken, aynı zamanda gömülü sistemler, mobil uygulama geliştirme ve oyun dünyasına yönelik projeler geliştiriyorum.
 
 ---
 
@@ -41,8 +40,8 @@ Donanım ve yazılımın kesişim noktasında projeler üreten bir **Mekatronik 
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HASAN_GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASAN_GITHUB_KULLANICI_ADIN&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HHYildiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HHHYildiz&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -50,8 +49,8 @@ Donanım ve yazılımın kesişim noktasında projeler üreten bir **Mekatronik 
 ### 📫 Benimle İletişime Geç
 
 <p align="left">
-  <a href="https://linkedin.com/in/HASAN_LINKEDIN_ADIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:E-POSTA_ADRESIN" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/hhyildiz" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hhyildiz542@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
