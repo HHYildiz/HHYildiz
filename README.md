@@ -1,16 +1,59 @@
-## Hi there 👋
+# 🚀 Merhaba, Ben Hasan Hüseyin Yıldız!
 
-<!--
-**HHYildiz/HHYildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Mechatronics%20Engineering%20Student-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/School-42%20Network-black?style=for-the-badge&logo=42" />
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Embedded-green?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
+Donanım ve yazılımın kesişim noktasında projeler üreten bir **Mekatronik Mühendisliği öğrencisiyim**. **42 School** bünyesinde düşük seviyeli sistem programlama üzerine uzmanlaşırken, aynı zamanda gömülü sistemler, mobil uygulama geliştirme ve oyun dünyasına yönelik projeler geliştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Yetkinlikler & Araçlar
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Embedded_Systems-00599C?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📂 Öne Çıkan Projeler
+
+| Proje Adı | Açıklama | Teknolojiler |
+| :--- | :--- | :--- |
+| **🛒 E-Commerce Projects** | Bash benzeri bir kabuk (shell) uygulaması. Proses yönetimi ve sinyal işleme. | `C`, `Systems Programming` |
+| **📱 Mobile Apps** | Araç bakım, yağ değişimi ve OBD entegrasyonu odaklı mobil uygulama. | `React Native` |
+| **⚙️ Embedded Systems** | Step motorlar aracılığıyla müzik notalarını frekanslara dönüştüren gömülü sistem. | `Embedded`, `C++` |
+| **🎮 Game Projects** | Startgate ve GGJ etkinliklerinde geliştirilen bağımsız oyunlar. | `Unity`, `C#` |
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HASAN_GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HASAN_GITHUB_KULLANICI_ADIN&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Benimle İletişime Geç
+
+<p align="left">
+  <a href="https://linkedin.com/in/HASAN_LINKEDIN_ADIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:E-POSTA_ADRESIN" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <i>"Kodun karmaşıklığı, çözümün sadeliğiyle dengelenir."</i>
+</p>
