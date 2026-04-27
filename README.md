@@ -30,10 +30,10 @@ Donanım ve yazılımın kesişim noktasında projeler üreten bir öğrenciyim 
 
 | Proje Adı | Açıklama | Teknolojiler |
 | :--- | :--- | :--- |
-| **🛒 E-Commerce Projects** | Bash benzeri bir kabuk (shell) uygulaması. Proses yönetimi ve sinyal işleme. | `C`, `Systems Programming` |
-| **📱 Mobile Apps** | Araç bakım, yağ değişimi ve OBD entegrasyonu odaklı mobil uygulama. | `React Native` |
-| **⚙️ Embedded Systems** | Step motorlar aracılığıyla müzik notalarını frekanslara dönüştüren gömülü sistem. | `Embedded`, `C++` |
-| **🎮 Game Projects** | Startgate ve GGJ etkinliklerinde geliştirilen bağımsız oyunlar. | `Unity`, `C#` |
+| **🛒 E-Commerce Projects** | Modüler mimari ve kullanıcı dostu arayüzlerle geliştirilmiş e-ticaret çözümleri. | `PHP`, `Prestashop` |
+| **📱 Mobile Apps** | Güncel teknolojilerle geliştirilmiş, interaktif ve verimli mobil sistem tasarımları. | `React Native` |
+| **⚙️ Embedded Systems** | Mikrodenetleyici tabanlı, performans ve düşük güç tüketimi odaklı gömülü yazılım tasarımları. | `Embedded`, `C++` |
+| **🎮 Game Projects** | Hızlı prototipleme ve sağlam oyun döngüleri üzerine kurulu, dinamik yazılım projelerim. | `Unity`, `C#` |
 
 ---
 
